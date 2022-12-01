@@ -19,6 +19,8 @@ Features :
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 SnapShots - CuisineCulture
+
+
 <img width="1440" alt="Screenshot 2022-12-01 at 11 28 08 AM" src="https://user-images.githubusercontent.com/76025681/204977543-99ce01a6-cd2f-4122-a159-5fb041520274.png">
 <img width="1439" alt="Screenshot 2022-12-01 at 11 29 09 AM" src="https://user-images.githubusercontent.com/76025681/204977556-9f460368-dffe-45a0-b920-b49a951fe6d0.png">
 <img width="1440" alt="Screenshot 2022-12-01 at 11 29 34 AM" src="https://user-images.githubusercontent.com/76025681/204977566-bbb8ff1f-8bba-4d15-a5da-1ba7b3acfa31.png">
