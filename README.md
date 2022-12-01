@@ -3,7 +3,7 @@
 CuisineCulture is specially designed for the purpose of calculating total bill in a cafe and adding ordered item’s record. 
 This system elaborates basic concept for storing and generating ordered item’s detail. 
 In this system, staff can sign up as a system admin, He/she can have full access to the system for maintaining daily records. 
-The whole project is designed in HTML CSS and JAVASCRIPT language and have been used for the development of this project. 
+The whole project is designed in HTML CSS and JAVASCRIPT language and for backend we have used PHP for the development of this project. 
 It’s easy to operate and understand by users. 
 There is no any error and warning contents in the project. 
 The design is so simple that user should not find it difficult to use and navigate.
